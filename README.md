@@ -75,13 +75,17 @@ The model is a Convolutional Neural Network (CNN) built using the Keras library.
 
 The model is compiled with the Adam optimizer and categorical crossentropy loss function. It is trained for 10 epochs with a batch size of 16.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Keras for building and training the deep learning model.
 - OpenCV for image processing.
 - Matplotlib and Seaborn for visualizations.
 - Tkinter for the GUI interface.
+
+## Contributors
+- [Madipadigay Vishnu Preshitha](https://github.com/preshitha4444)
+- S Nandini
+- Mayadari Aditi
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
