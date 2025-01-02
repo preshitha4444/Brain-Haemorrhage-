@@ -89,3 +89,29 @@ The model is compiled with the Adam optimizer and categorical crossentropy loss 
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Screens
+Selecting Dataset<br>
+![Chatbot Interface](./images/Picture1.png)<br>
+Haemorrhage<br>
+![Chatbot Interface](./images/Picture2.png)<br>
+Upload CT Scans Dataset<br>
+![Chatbot Interface](./images/Picture3.png)<br>
+Dataset’ folder<br>
+![Chatbot Interface](./images/Picture4.png)<br>
+Normalize CT Scan Image<br>
+![Chatbot Interface](./images/Picture5.png)<br>
+Train Yolo Model<br>
+![Chatbot Interface](./images/Picture6.png)<br>
+YOLO Accuracy Loss graph<br>
+![Chatbot Interface](./images/Picture7.png)<br>
+Upload Test Images<br>
+![Chatbot Interface](./images/Picture8.png)<br>
+Haemorrhage Detected<br>
+![Chatbot Interface](./images/Picture9.png)<br>
+No Haemorrhage Detected<br>
+![Chatbot Interface](./images/Picture10.png)<br>
+Interacting with ChatBot<br>
+![Chatbot Interface](./images/Picture11.png)<br>
+Asking Unknown Question<br>
+![Chatbot Interface](./images/Picture12.png)<br>
